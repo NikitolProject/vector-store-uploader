@@ -8,7 +8,7 @@ A desktop application built with Tauri, React, and Rust for processing PDF docum
 - PDF text extraction and processing
 - OpenAI embeddings generation
 - Vector storage in Pinecone
-- Cross-platform desktop application (Windows, macOS, Linux)
+- Cross-platform desktop application (macOS, Linux)
 - Modern React UI with Material-UI components
 - Secure settings storage
 
